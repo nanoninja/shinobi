@@ -1,0 +1,10 @@
+github.com/nanoninja/assert v0.4.0 h1:7CTWDWCvExQkOSchepoQd2W16nkc2ifvpac8Vgq0AxE=
+github.com/nanoninja/assert v0.4.0/go.mod h1:ypUSuUalmmqcJxqxKdbCdnucDI3Go8k7yQP08A5pKcY=
+github.com/nanoninja/render v0.15.0 h1:7E1z5XgagpT016N2lJttkWXTKXW9PZlnnq8epYEO3SY=
+github.com/nanoninja/render v0.15.0/go.mod h1:a8neRX/zttUDhEfea0EGKY4tQxn+tGokzBv5BCgA8VE=
+github.com/yuin/goldmark v1.8.2 h1:kEGpgqJXdgbkhcOgBxkC0X0PmoPG1ZyoZ117rDVp4zE=
+github.com/yuin/goldmark v1.8.2/go.mod h1:ip/1k0VRfGynBgxOz0yCqHrbZXhcjxyuS66Brc7iBKg=
+go.yaml.in/yaml/v3 v3.0.4 h1:tfq32ie2Jv2UxXFdLJdh3jXuOzWiL1fo0bu/FbuKpbc=
+go.yaml.in/yaml/v3 v3.0.4/go.mod h1:DhzuOOF2ATzADvBadXxruRBLzYTpT36CKvDb3+aBEFg=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=

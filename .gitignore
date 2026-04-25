@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the `go test -coverprofile` command
+*.cover
+
+# Directory for Go build artifacts
+cmd/
+bin/
+
+# Logs
+*.log
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Go workspace file
+go.work
+go.work.sum
